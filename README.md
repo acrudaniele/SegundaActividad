@@ -1,3 +1,3 @@
 # SegundaActividad
 
-Agustín Cruz
+Agustín Cruz Daniele
